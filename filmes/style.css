@@ -208,3 +208,7 @@ footer > p{
 	font-size: 22px;
 	border-radius: 7px;
 }
+.disponivel ul li:hover{
+	color:purple ;
+	background:black;
+}
